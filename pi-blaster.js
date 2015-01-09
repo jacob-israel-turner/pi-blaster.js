@@ -24,6 +24,7 @@ function writeCommand(cmd) {
 	});
 	
 }
+//JACOB ROCKS!!!
 
 var piblaster = {
 	setPwm: function(pinNumber, value) {
